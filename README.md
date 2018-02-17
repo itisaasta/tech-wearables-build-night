@@ -18,6 +18,8 @@ NOTE: Most components can be found via Amazon or Adafruit
 - [Accelerometer/Compass](https://www.adafruit.com/product/1247)
 ### Actuators
 - [Tilt Ball Switch](https://www.adafruit.com/product/173)
+- [LilyPad Button Board](https://www.sparkfun.com/products/8776)
+
 ### Thread
 - [Stainless Steel Conductive](https://www.adafruit.com/product/603)
 ### Power
