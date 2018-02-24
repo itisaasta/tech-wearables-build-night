@@ -132,7 +132,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 		- [FLORA]()
 		- [Gemma]()
 
-![Accelerometer + Compass](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/acceleromoter_compass.jpg)
+![Accelerometer + Compass](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/accelerometer_compass.jpg)
 
 ### Utilities - black
 - 1 breadboard
