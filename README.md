@@ -7,12 +7,12 @@ All of the components are labeled with their name and a colored dot - pink for A
 Most components can be found for purchase via Amazon or Adafruit.
 
 ### Adafruit FLORA - pink
-![]()
+![FLORA pinout](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/flora_pinout.png)
 - 11 FLORAs x(3 cables + 2 batteries + 1 JST connector + 1 neopixel + 1 micro-USB cable) in each
 	- [Product Page](https://www.adafruit.com/product/659)
 
 ### Adafruit Gemma - purple
-![]()
+![Gemma pinout](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/gemma_pinout.png)
 - 8 Gemmas x(3 cables + 2 batteries + 1 JST connector + 1 neopixel + 1 micro-USB cable) in each
 	- [Product Page](https://www.adafruit.com/product/1222)
 
@@ -21,22 +21,22 @@ Most components can be found for purchase via Amazon or Adafruit.
 	- [Product Page](https://www.adafruit.com/product/1559)
 	- Code Samples
 		- [FLORA]()
-		- [Gemma]()
+		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_neopixel_rainbow)
 - 5 blue sequins
 	- [Product Page](https://www.adafruit.com/product/1757)
 	- Code Samples
-		- [FLORA]()
-		- [Gemma]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_led_blink)
+		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_led_blink)
 - 5 red sequins
 	- [Product Page](https://www.adafruit.com/product/1755)
 	- Code Samples
-		- [FLORA]()
-		- [Gemma]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_led_blink)
+		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_led_blink)
 - 1 neopixel jewel
 	- [Product Page](https://www.adafruit.com/product/2226)
 	- Code Samples
 		- [FLORA]()
-		- [Gemma]()
+		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_neopixel_jewel_colorwipe)
 - 1 neopixel ring
 	- [Product Page](https://www.adafruit.com/product/1586)
 	- Code Samples
@@ -58,7 +58,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 	- [Product Page](https://www.adafruit.com/product/173)
 	- Code Samples
 		- [FLORA]()
-		- [Gemma]()
+		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_tiltswitch_debouncer)
 - 2 soft potentiometers
 	- [Product Page]()
 	- Code Samples
@@ -68,16 +68,16 @@ Most components can be found for purchase via Amazon or Adafruit.
 	- [Product Page]()
 	- Code Samples
 		- [FLORA]()
-		- [Gemma]()
+		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_pushbutton)
 - ? button board
 	- [Product Page](https://www.sparkfun.com/products/8776)
 	- Code Samples
 		- [FLORA]()
-		- [Gemma]()
+		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_pushbutton)
 - 1 color sensor
 	- [Product Page](https://www.adafruit.com/product/1356)
 	- Code Samples
-		- [FLORA]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_color_sensor_print)
 		- [Gemma]()
 - 1 UV light sensor
 	- [Product Page](https://www.adafruit.com/product/1981)
