@@ -39,7 +39,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_led_blink)
 		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_led_blink)
 
-![Red Sequin](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/red_led.jpeg)
+![Red Sequin](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/red_led.jpg)
 
 - 1 neopixel jewel
 	- [Product Page](https://www.adafruit.com/product/2226)
