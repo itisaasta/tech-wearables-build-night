@@ -7,14 +7,14 @@ All of the components are labeled with their name and a colored dot - pink for A
 Most components can be found for purchase via Amazon or Adafruit.
 
 ### Adafruit FLORA - pink
-![FLORA pinout](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/flora_pinout.png)
 - 11 FLORAs x(3 cables + 2 batteries + 1 JST connector + 1 neopixel + 1 micro-USB cable) in each
 	- [Product Page](https://www.adafruit.com/product/659)
+![FLORA pinout](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/flora_pinout.png)
 
 ### Adafruit Gemma - purple
-![Gemma pinout](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/gemma_pinout.png)
 - 8 Gemmas x(3 cables + 2 batteries + 1 JST connector + 1 neopixel + 1 micro-USB cable) in each
 	- [Product Page](https://www.adafruit.com/product/1222)
+![Gemma pinout](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/gemma_pinout.png)
 
 ### Lights - red
 - 9 neopixels
@@ -22,31 +22,37 @@ Most components can be found for purchase via Amazon or Adafruit.
 	- Code Samples
 		- [FLORA]()
 		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_neopixel_rainbow)
+![Neopixel](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/neopixel.jpg)
 - 5 blue sequins
 	- [Product Page](https://www.adafruit.com/product/1757)
 	- Code Samples
 		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_led_blink)
 		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_led_blink)
+![Blue Sequin](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/blue_led.jpg)
 - 5 red sequins
 	- [Product Page](https://www.adafruit.com/product/1755)
 	- Code Samples
 		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_led_blink)
 		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_led_blink)
+![Red Sequin](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/red_led.jpeg)
 - 1 neopixel jewel
 	- [Product Page](https://www.adafruit.com/product/2226)
 	- Code Samples
 		- [FLORA]()
 		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_neopixel_jewel_colorwipe)
+![Neopixel Jewel](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/neopixel_jewel.jpg)
 - 1 neopixel ring
 	- [Product Page](https://www.adafruit.com/product/1586)
 	- Code Samples
 		- [FLORA]()
 		- [Gemma]()
+![Neopixel Ring](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/neopixel_ring.jpg)
 - 1 neopixel strip
 	- [Product Page]()
 	- Code Samples
 		- [FLORA]()
 		- [Gemma]()
+![Neopixel Strip](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/neopixel_strip.jpg)
 
 ### Sensors & Actuators - green
 - 1 speaker
