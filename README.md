@@ -6,7 +6,7 @@ NOTE: Even if you already have the Arduino IDE installed, you will need the Adaf
 - [Install Arduino IDE](https://learn.adafruit.com/adafruit-arduino-ide-setup/arduino-1-dot-6-x-ide)
 
 ## Build Night Guide
-[Guide](https://github.com/HarvAce/tech-wearables-build-night/technology-wearables-build-night-guide.pdf)
+[Guide](https://github.com/HarvAce/tech-wearables-build-night/blob/master/technology-wearables-build-night-guide.pdf)
 
 ## Components
 All of the components are labeled with their name and a colored dot - pink for Adafruit FLORA, purple for Adafruit Gemma, red for lights, green for sensors and actuators, black for utilities, and yellow for cables.
