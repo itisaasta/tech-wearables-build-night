@@ -7,4 +7,4 @@ When the soft potentiometer is pulled, light up a chain of neopixels.
 - Soft Potentiometer
 - Neopixels
 
-<img src="./gemma_flora_potentiometer_bb.png?raw=true" width="400" alt="circuit diagram">
+<img src="./flora_soft_potentiometer_bb.png?raw=true" width="400" alt="circuit diagram">
