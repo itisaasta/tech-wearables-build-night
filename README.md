@@ -5,22 +5,25 @@ This repo is the one-stop-shop for anything technology wearables build night.
 NOTE: Even if you already have the Arduino IDE installed, you will need the Adafruit Board Support Package under "Additional Boards Manager URLs".
 - [Install Arduino IDE](https://learn.adafruit.com/adafruit-arduino-ide-setup/arduino-1-dot-6-x-ide)
 
+## Build Night Guide
+[Guide](https://github.com/HarvAce/tech-wearables-build-night/technology-wearables-build-night-guide.pdf)
+
 ## Components
 All of the components are labeled with their name and a colored dot - pink for Adafruit FLORA, purple for Adafruit Gemma, red for lights, green for sensors and actuators, black for utilities, and yellow for cables.
 
 Most components can be found for purchase via Amazon or Adafruit.
 
-### Adafruit FLORA - pink
+### Adafruit FLORA - 1 type - pink
 - 11 FLORAs x(3 cables + 2 batteries + 1 JST connector + 1 neopixel + 1 micro-USB cable) in each
 	- [Product Page](https://www.adafruit.com/product/659)
 ![FLORA pinout](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/flora_pinout.png)
 
-### Adafruit Gemma - purple
+### Adafruit Gemma - 1 type - purple
 - 8 Gemmas x(3 cables + 2 batteries + 1 JST connector + 1 neopixel + 1 micro-USB cable) in each
 	- [Product Page](https://www.adafruit.com/product/1222)
 ![Gemma pinout](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/gemma_pinout.png)
 
-### Lights - red
+### Lights - 6 types - red
 - 9 neopixels
 	- [Product Page](https://www.adafruit.com/product/1559)
 	- Code Samples
@@ -69,7 +72,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 
 ![Neopixel Strip](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/neopixel_strip.jpg)
 
-### Sensors & Actuators - green
+### Sensors & Actuators - 8 types - green
 - 1 speaker
 	- [Product Page](https://www.adafruit.com/product/1890)
 	- Code Samples
@@ -134,7 +137,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 
 ![Accelerometer + Compass](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/accelerometer_compass.jpg)
 
-### Utilities - black
+### Utilities - 6 types - black
 - 1 breadboard
 	- [Product Page](https://www.adafruit.com/product/65)
 - 7 battery switches
@@ -148,7 +151,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 - 1 rechargeable battery
 	- [Product Page](https://www.adafruit.com/product/1904)
 
-### Cables - yellow
+### Cables - 1 type - yellow
 - 53 cable bags x3 in each
 	- [Product Page](https://www.adafruit.com/product/1008)
 
