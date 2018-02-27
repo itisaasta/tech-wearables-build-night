@@ -3,11 +3,11 @@
   #include <avr/power.h>
 #endif
 
-const int DATA_PIN = 0;
-const int PIXEL_NUM = 7;    // number of pixels (jewel == 7)
+const int DATA_PIN = 12;
+const int PIXEL_NUM = 1;      // number of pixels
 
-const int BRIGHTNESS = 64;  // 0-255
-const int WAIT = 80;        // delay transitioning colors
+const int BRIGHTNESS = 128;   // 0-255
+const int WAIT = 50;          // delay transitioning colors
 
 // Parameter 1 = number of pixels in strip
 // Parameter 2 = Arduino pin number (most are valid)
@@ -27,18 +27,33 @@ void setup() {
 }
 
 void loop() {
-  colorWipe(strip.Color(255, 0, 0), WAIT); // Red
-  colorWipe(strip.Color(0, 255, 0), WAIT); // Green
-  colorWipe(strip.Color(0, 0, 255), WAIT); // Blue
+  rainbow(WAIT);
 }
 
-// Fill the dots one after the other with a color
-void colorWipe(uint32_t c, uint8_t wait) {
-  for(uint16_t i=0; i<strip.numPixels(); i++) {
-    strip.setPixelColor(i, c);
+void rainbow(uint8_t wait) {
+  uint16_t i, j;
+
+  for(j=0; j<256; j++) {
+    for(i=0; i<strip.numPixels(); i++) {
+      strip.setPixelColor(i, wheel((i+j) & 255));
+    }
     strip.show();
     delay(wait);
   }
 }
 
 
+// Input a value 0 to 255 to get a color value.
+// The colours are a transition r - g - b - back to r.
+uint32_t wheel(byte wheelPos) {
+  wheelPos = 255 - wheelPos;
+  if(wheelPos < 85) {
+    return strip.Color(255 - wheelPos * 3, 0, wheelPos * 3);
+  }
+  if(wheelPos < 170) {
+    wheelPos -= 85;
+    return strip.Color(0, wheelPos * 3, 255 - wheelPos * 3);
+  }
+  wheelPos -= 170;
+  return strip.Color(wheelPos * 3, 255 - wheelPos * 3, 0);
+}

@@ -3,7 +3,7 @@
 /* LED_PIN must support PWM (pins identified with tilde ~) */
 const int LED_PIN = 6;
 
-int brightness = 0;    // how bright the LED is
+int brightness = 0;    // store current brightness
 int fadeAmount = 5;    // how many points to fade the LED by
 
 void setup() {

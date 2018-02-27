@@ -4,10 +4,10 @@
 #endif
 
 const int DATA_PIN = 0;
-const int PIXEL_NUM = 1;
+const int PIXEL_NUM = 1;      // number of pixels
 
-const int BRIGHTNESS = 128;
-const int WAIT = 50; // delay transitioning colors
+const int BRIGHTNESS = 128;   // 0-255
+const int WAIT = 50;          // delay transitioning colors
 
 // Parameter 1 = number of pixels in strip
 // Parameter 2 = Arduino pin number (most are valid)
