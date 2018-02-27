@@ -64,7 +64,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 
 ![Neopixel Ring](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/neopixel_ring.jpg)
 
-- 1 neopixel strip
+- 2 neopixel strips
 	- [Product Page](https://www.adafruit.com/product/2842)
 	- Code Samples
 		- [FLORA]()
@@ -113,7 +113,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 
 ![Button Board](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/button_board.jpg)
 
-- 1 color sensor
+- 3 color sensors
 	- [Product Page](https://www.adafruit.com/product/1356)
 	- Code Samples
 		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_color_sensor_print)
@@ -121,7 +121,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 
 ![Color Sensor](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/color_sensor.jpg)
 
-- 1 UV light sensor
+- 3 UV light sensors
 	- [Product Page](https://www.adafruit.com/product/1981)
 	- Code Samples
 		- [FLORA]()
@@ -136,6 +136,22 @@ Most components can be found for purchase via Amazon or Adafruit.
 		- [Gemma]()
 
 ![Accelerometer + Compass](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/accelerometer_compass.jpg)
+
+- 1 Force Sensor
+	- [Product Page](https://www.adafruit.com/product/166)
+	- Code Samples
+		- [FLORA]()
+		- [Gemma]()
+
+![Force Sensor](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/force_sensor.jpg)
+
+- 1 Conductive Fabric
+	- [Product Page](https://www.adafruit.com/product/1364)
+	- Code Samples
+		- [FLORA]()
+		- [Gemma]()
+
+![Conductive Fabric](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/conductive_fabric.jpg)
 
 ### Utilities - 6 types - black
 - 1 breadboard
