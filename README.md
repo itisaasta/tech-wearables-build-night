@@ -1,12 +1,17 @@
 # tech-wearables-build-night
 This repo is the one-stop-shop for anything technology wearables build night.
 
+## Build Night Guide
+[Guide](https://github.com/HarvAce/tech-wearables-build-night/blob/master/technology-wearables-build-night-guide.pdf)
+
 ## Arduino IDE Installation
 NOTE: Even if you already have the Arduino IDE installed, you will need the Adafruit Board Support Package under "Additional Boards Manager URLs".
 - [Install Arduino IDE](https://learn.adafruit.com/adafruit-arduino-ide-setup/arduino-1-dot-6-x-ide)
 
-## Build Night Guide
-[Guide](https://github.com/HarvAce/tech-wearables-build-night/blob/master/technology-wearables-build-night-guide.pdf)
+## Fritzing Installation
+NOTE: Fritzing is not required, yet it can be used to make nice diagrams of your projects.
+- [Install Fritzing](http://fritzing.org/download/)
+- [Load Adafruit Stencils](https://learn.adafruit.com/using-the-adafruit-library-with-fritzing?view=all)
 
 ## Components
 All of the components are labeled with their name and a colored dot - pink for Adafruit FLORA, purple for Adafruit Gemma, red for lights, green for sensors and actuators, black for utilities, and yellow for cables.
@@ -27,7 +32,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 - 9 neopixels
 	- [Product Page](https://www.adafruit.com/product/1559)
 	- Code Samples
-		- [FLORA]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_neopixel_rainbow)
 		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_neopixel_rainbow)
 
 ![Neopixel](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/neopixel.jpg)
@@ -51,7 +56,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 - 1 neopixel jewel
 	- [Product Page](https://www.adafruit.com/product/2226)
 	- Code Samples
-		- [FLORA]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_neopixel_jewel_colorwipe)
 		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_neopixel_jewel_colorwipe)
 
 ![Neopixel Jewel](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/neopixel_jewel.jpg)
@@ -72,7 +77,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 
 ![Neopixel Strip](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/neopixel_strip.jpg)
 
-### Sensors & Actuators - 8 types - green
+### Sensors & Actuators - 10 types - green
 - 1 speaker
 	- [Product Page](https://www.adafruit.com/product/1890)
 	- Code Samples
@@ -84,7 +89,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 - 1 tilt ball switch
 	- [Product Page](https://www.adafruit.com/product/173)
 	- Code Samples
-		- [FLORA]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_tiltswitch_debouncer)
 		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_tiltswitch_debouncer)
 
 ![Tilt Ball Switch](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/tilt_ball_switch.jpg)
@@ -92,15 +97,15 @@ Most components can be found for purchase via Amazon or Adafruit.
 - 2 soft potentiometers
 	- [Product Page](https://www.adafruit.com/product/2273)
 	- Code Samples
-		- [FLORA]()
-		- [Gemma]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_soft_potentiometer)
+		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_soft_potentiometer)
 
 ![Soft Potentiometer](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/soft_potentiometer.jpg)
 
 - 6 on/off switches
 	- [Product Page](https://www.adafruit.com/product/1092)
 	- Code Samples
-		- [FLORA]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_pushbutton)
 		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_pushbutton)
 
 ![On/Off Switch](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/on_off_switch.jpg)
@@ -108,7 +113,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 - ? button board
 	- [Product Page](https://www.sparkfun.com/products/8776)
 	- Code Samples
-		- [FLORA]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_pushbutton)
 		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_pushbutton)
 
 ![Button Board](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/button_board.jpg)
@@ -141,14 +146,14 @@ Most components can be found for purchase via Amazon or Adafruit.
 	- [Product Page](https://www.adafruit.com/product/166)
 	- Code Samples
 		- [FLORA]()
-		- [Gemma]()
+		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_force_sensor)
 
 ![Force Sensor](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/force_sensor.jpg)
 
 - 1 Conductive Fabric
 	- [Product Page](https://www.adafruit.com/product/1364)
 	- Code Samples
-		- [FLORA]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_conductive_fabric)
 		- [Gemma]()
 
 ![Conductive Fabric](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/conductive_fabric.jpg)
