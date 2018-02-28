@@ -1,6 +1,6 @@
 # Gemma Force Sensor sketch
 
-When the force sensor is pushed, output the reading.
+When the force sensor is pushed, do something.
 
 **Hardware**
 - Adafruit Gemma
