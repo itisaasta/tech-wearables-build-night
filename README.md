@@ -30,17 +30,17 @@ All of the components are labeled with their name and a colored dot - pink for A
 Most components can be found for purchase via Amazon or Adafruit.
 
 ### Adafruit FLORA - 1 type - pink
-- 11 FLORAs x(3 cables + 2 batteries + 1 JST connector + 1 neopixel + 1 micro-USB cable) in each
+- 12 FLORAs x(3 cables + 2 batteries + 1 JST connector + 1 neopixel + 1 micro-USB cable) in each - A:11, M:1
 	- [Product Page](https://www.adafruit.com/product/659)
 ![FLORA pinout](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/flora_pinout.png)
 
 ### Adafruit Gemma - 1 type - purple
-- 8 Gemmas x(3 cables + 2 batteries + 1 JST connector + 1 neopixel + 1 micro-USB cable) in each
+- 10 Gemmas x(3 cables + 2 batteries + 1 JST connector + 1 neopixel + 1 micro-USB cable) in each - A:8, M:2
 	- [Product Page](https://www.adafruit.com/product/1222)
 ![Gemma pinout](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/gemma_pinout.png)
 
 ### Lights - 6 types - red
-- 9 neopixels
+- 41 neopixels - A:9, M:32
 	- [Product Page](https://www.adafruit.com/product/1559)
 	- Code Samples
 		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_neopixel_rainbow)
@@ -64,7 +64,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 
 ![Red Sequin](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/red_led.jpg)
 
-- 1 neopixel jewel
+- 2 neopixel jewels - A:1, M:1
 	- [Product Page](https://www.adafruit.com/product/2226)
 	- Code Samples
 		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_neopixel_jewel_colorwipe)
@@ -97,7 +97,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 
 ![Speaker](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/speaker.jpg)
 
-- 1 tilt ball switch
+- 2 tilt ball switches - A:1, M:1
 	- [Product Page](https://www.adafruit.com/product/173)
 	- Code Samples
 		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_tiltswitch_debouncer)
@@ -121,7 +121,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 
 ![On/Off Switch](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/on_off_switch.jpg)
 
-- ? button board
+- 3 button switches
 	- [Product Page](https://www.sparkfun.com/products/8776)
 	- Code Samples
 		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_pushbutton)
@@ -129,7 +129,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 
 ![Button Board](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/button_board.jpg)
 
-- 3 color sensors
+- 4 color sensors - A:3, M:1
 	- [Product Page](https://www.adafruit.com/product/1356)
 	- Code Samples
 		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_color_sensor_print)
@@ -137,14 +137,14 @@ Most components can be found for purchase via Amazon or Adafruit.
 
 ![Color Sensor](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/color_sensor.jpg)
 
-- 3 UV light sensors
+- 4 UV light sensors - A:3, M:1
 	- [Product Page](https://www.adafruit.com/product/1981)
 	- Code Samples
 		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_uv_light_sensor)
 
 ![UV Light Sensor](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/uv_light_sensor.jpg)
 
-- 1 accelerometer + compass
+- 2 accelerometer + compass - A:1, M:1
 	- [Accelerometer + Compass](https://www.adafruit.com/product/1247)
 	- Code Samples
 		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_accelerometer_compass)
@@ -170,7 +170,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 ### Utilities - 6 types - black
 - 1 breadboard
 	- [Product Page](https://www.adafruit.com/product/65)
-- 7 battery switches
+- 9 battery switches - A:7, M:2
 	- [Product Page](https://www.adafruit.com/product/783)
 - 3 needles x20 in each
 	- [Product Page](https://www.adafruit.com/product/615)
