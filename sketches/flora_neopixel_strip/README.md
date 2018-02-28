@@ -1,4 +1,4 @@
-# Gemma Neopixel Strip sketch
+# FLORA Neopixel Strip sketch
 
 Light up a neopixel strip.
 
