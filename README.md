@@ -19,6 +19,9 @@ Component libraries
 - Adafruit LSM303DLHC (accelerometer + compass)
 - Adafruit SI1145 Library (UV sensor)
 
+- CapacitiveSensor (conductive fabric https://github.com/arduino-libraries/CapacitiveSensor/zipball/master)
+For CapacitiveSensor, save zip and use menu item "Sketch > Include Library > Add .ZIP Library" 
+
 ## Fritzing Installation
 NOTE: Fritzing is not required, yet it can be used to make nice diagrams of your projects.
 - [Install Fritzing](http://fritzing.org/download/)
