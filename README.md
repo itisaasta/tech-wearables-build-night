@@ -75,16 +75,16 @@ Most components can be found for purchase via Amazon or Adafruit.
 - 1 neopixel ring
 	- [Product Page](https://www.adafruit.com/product/1586)
 	- Code Samples
-		- [FLORA]()
-		- [Gemma]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_neopixel_ring)
+		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_neopixel_ring)
 
 ![Neopixel Ring](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/neopixel_ring.jpg)
 
 - 2 neopixel strips
 	- [Product Page](https://www.adafruit.com/product/2842)
 	- Code Samples
-		- [FLORA]()
-		- [Gemma]()
+		- [FLORA](ttps://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_neopixel_strip)
+		- [Gemma](ttps://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_neopixel_strip)
 
 ![Neopixel Strip](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/neopixel_strip.jpg)
 
@@ -92,8 +92,8 @@ Most components can be found for purchase via Amazon or Adafruit.
 - 1 speaker
 	- [Product Page](https://www.adafruit.com/product/1890)
 	- Code Samples
-		- [FLORA]()
-		- [Gemma]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_speaker)
+		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_speaker)
 
 ![Speaker](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/speaker.jpg)
 
@@ -140,23 +140,21 @@ Most components can be found for purchase via Amazon or Adafruit.
 - 3 UV light sensors
 	- [Product Page](https://www.adafruit.com/product/1981)
 	- Code Samples
-		- [FLORA]()
-		- [Gemma]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_uv_light_sensor)
 
 ![UV Light Sensor](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/uv_light_sensor.jpg)
 
 - 1 accelerometer + compass
 	- [Accelerometer + Compass](https://www.adafruit.com/product/1247)
 	- Code Samples
-		- [FLORA]()
-		- [Gemma]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_accelerometer_compass)
 
 ![Accelerometer + Compass](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/accelerometer_compass.jpg)
 
 - 1 Force Sensor
 	- [Product Page](https://www.adafruit.com/product/166)
 	- Code Samples
-		- [FLORA]()
+		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_force_sensor)
 		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_force_sensor)
 
 ![Force Sensor](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/force_sensor.jpg)
@@ -165,7 +163,7 @@ Most components can be found for purchase via Amazon or Adafruit.
 	- [Product Page](https://www.adafruit.com/product/1364)
 	- Code Samples
 		- [FLORA](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/flora_conductive_fabric)
-		- [Gemma]()
+		- [Gemma](https://github.com/HarvAce/tech-wearables-build-night/tree/master/sketches/gemma_conductive_fabric)
 
 ![Conductive Fabric](https://github.com/HarvAce/tech-wearables-build-night/blob/master/images/conductive_fabric.jpg)
 
