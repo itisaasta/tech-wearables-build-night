@@ -8,6 +8,17 @@ This repo is the one-stop-shop for anything technology wearables build night.
 NOTE: Even if you already have the Arduino IDE installed, you will need the Adafruit Board Support Package under "Additional Boards Manager URLs".
 - [Install Arduino IDE](https://learn.adafruit.com/adafruit-arduino-ide-setup/arduino-1-dot-6-x-ide)
 
+Some components will require additional libraries. To install these libraries:
+1. In Arduino IDE menu navigate to "Sketch->Include Library->Manage Libraries...". 
+2. In "Library Manager" dialog focus "Filter your search" field and enter desired library (e.g. "TCS34725"). 
+3. In search results select desired library (e.g. "Adafruit TCS34725"), select latest version, and click "Install" button.
+
+Component libraries
+- Adafruit NeoPixel (neopixel, jewel, etc)
+- Adafruit TCS34725 (color sensor)
+- Adafruit LSM303DLHC (accelerometer + compass)
+- Adafruit SI1145 Library (UV sensor)
+
 ## Fritzing Installation
 NOTE: Fritzing is not required, yet it can be used to make nice diagrams of your projects.
 - [Install Fritzing](http://fritzing.org/download/)
